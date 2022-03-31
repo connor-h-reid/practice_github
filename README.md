@@ -17,3 +17,7 @@ ideal project: Raw Data: Data imported into your project. Metadata includes date
 Scripts: Code (can separate by language)
 Output: Figures, tables, results
 Every folder should contain a README to explain what it contains
+
+
+
+# Another update, just to test things out. Did stuff in RStudio, now going to try a pull to RStudio with this update to this file. 
